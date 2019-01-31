@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LangAndResources</string>
+    <string name="hello_world">Hej Världen!</string>
+    <string name="press">Tryck!</string>
+
+</resources>
