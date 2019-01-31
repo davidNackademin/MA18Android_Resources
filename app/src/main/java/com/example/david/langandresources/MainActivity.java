@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         helloView = findViewById(R.id.textView);
         //Hello hello hello
+        // Hejsan MA18
     }
 
     public void buttonPressed(View view) {
