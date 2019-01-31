@@ -23,7 +23,9 @@
         android:layout_marginTop="68dp"
         android:text="@string/press"
         app:layout_constraintStart_toStartOf="@+id/textView"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        android:onClick="buttonPressed"
+        />
 
     <ImageView
         android:id="@+id/imageView"
