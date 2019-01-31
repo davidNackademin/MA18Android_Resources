@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         helloView = findViewById(R.id.textView);
-
+        //Hello hello hello
     }
 
     public void buttonPressed(View view) {
